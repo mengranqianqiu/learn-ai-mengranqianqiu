@@ -86,4 +86,4 @@ function handleEmergency() {
 
 我打开笔记软件，把今天所有灾难按时间线画成了一张流程图：
 
-![q0Ewjk7bqvxj.png](https://img.remit.ee/i/q0Ewjk7bqvxj)
+![灾难图谱](images/disaster.png)
