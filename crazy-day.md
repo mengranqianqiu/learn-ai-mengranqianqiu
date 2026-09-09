@@ -20,7 +20,6 @@
 |7:25|匆忙出门|忘带工牌和耳机|
 
 > 这一刻我心想："今天还能更糟吗？"
-
 > —— 事实证明，能。
 
 ---
@@ -29,7 +28,7 @@
 
 赶到公司后，我正准备部署一个紧急修复补丁，结果：
 
-```
+```bash
 git push origin hotfix
 # ERROR: Permission denied (publickey).
 # fatal: Could not read from remote repository.
@@ -41,7 +40,7 @@ SSH 密钥失效了。更惨的是，我端着咖啡试图冷静时——
 
 ### 2.1 当时的内心 OS
 
-```
+```javascript
 // 我的大脑在那一刻
 function handleEmergency() {
   try {
@@ -107,6 +106,7 @@ function handleEmergency() {
 他特意跑下来道歉，还多带了一杯奶茶。
 
 意外收获:
+
 - 奶茶: 芋泥波波 (去糖)
 - 教训: 以后外卖备注"花坛是陷阱"
 - 心情: 从 2 分回升到 6 分
@@ -162,4 +162,4 @@ def before_leave_home():
 
 晚安，世界。🌙
 
-*内容由deepseek生成*
+内容由deepseek生成
